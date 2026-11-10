@@ -46,3 +46,14 @@ rectangle = Rectangle(100, 200)
 print(rectangle.calculate_area())
 circle = Circle(100)
 print(circle.calculate_area())
+
+
+# QUESTIONS ANSWER
+
+# polymorphism is using one method in many form
+# abstraction is the process of hiding unnecessary implementation details and exposing only the essential functionality to the user.
+# ABSTRACT class is a class that inherits from ABC and have an abstract methods that must be implemented by the child classes
+# if child class doesn't implement abstract method it gives typeError error
+
+
+

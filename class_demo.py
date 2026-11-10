@@ -24,3 +24,11 @@ student3.display_info()
 student3.introduce()
 
 print("------------------------------------------")
+
+# ANSWER FOR QUESTIONs
+# class is a blueprint that contains attributes and methods that describes the objects
+# object is an the actual thing that is created from the classes
+
+# __init__() it used as a constractor in python that add passed argument to the object as a attribute to that object
+# attribute is simply a data that describes that object but methods are the functionality belongs to that object
+
